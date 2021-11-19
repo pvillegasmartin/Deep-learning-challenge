@@ -42,7 +42,7 @@ if __name__ == '__main__':
                             'Shirt',
                             'Sneaker',
                             'Bag',
-                            'Ankle Boot'], rotation=45
+                            'Ankle Boot'], rotation=30, fontsize=8
 )
     fig.savefig('distribution_errors.png')
     plt.show()
